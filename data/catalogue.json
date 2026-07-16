@@ -1,0 +1,11 @@
+{"type":"Book","id":"B0001","title":"Things Fall Apart","author":"Chinua Achebe","year":1958,"extra":"978-0385474542","available":true,"timesBorrowed":0,"peerReviewed":false}
+{"type":"Book","id":"B0002","title":"Americanah","author":"Chimamanda Ngozi Adichie","year":2013,"extra":"978-0307962126","available":true,"timesBorrowed":0,"peerReviewed":false}
+{"type":"Book","id":"B0003","title":"The Lion and the Jewel","author":"Wole Soyinka","year":1962,"extra":"978-0199110834","available":true,"timesBorrowed":0,"peerReviewed":false}
+{"type":"Book","id":"B0004","title":"The Famished Road","author":"Ben Okri","year":1991,"extra":"978-0099530510","available":true,"timesBorrowed":0,"peerReviewed":false}
+{"type":"Magazine","id":"M0005","title":"The Africa Report","author":"Various","year":2025,"extra":"142","available":true,"timesBorrowed":0,"peerReviewed":false}
+{"type":"Magazine","id":"M0006","title":"New African","author":"Various","year":2026,"extra":"615","available":true,"timesBorrowed":0,"peerReviewed":false}
+{"type":"Magazine","id":"M0007","title":"TechCabal Quarterly","author":"Various","year":2025,"extra":"12","available":true,"timesBorrowed":0,"peerReviewed":false}
+{"type":"Journal","id":"J0008","title":"Nigerian Journal of Technological Research","author":"Federal University of Technology, Minna","year":2024,"extra":"Vol. 19","available":true,"timesBorrowed":0,"peerReviewed":true}
+{"type":"Journal","id":"J0009","title":"Journal of African History","author":"Cambridge University Press","year":2025,"extra":"Vol. 66","available":true,"timesBorrowed":0,"peerReviewed":true}
+{"type":"Journal","id":"J0010","title":"Ibadan Journal of the Social Sciences","author":"University of Ibadan","year":2023,"extra":"Vol. 21","available":true,"timesBorrowed":0,"peerReviewed":true}
+{"type":"Journal","id":"J0011","title":"African Development Review","author":"African Development Bank","year":2026,"extra":"Vol. 38","available":true,"timesBorrowed":0,"peerReviewed":true}
